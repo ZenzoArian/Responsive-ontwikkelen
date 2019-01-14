@@ -2,9 +2,11 @@ header {
   background: pink;
   color: #fff;
 }
+
 h3 {
   color: pink;
 }
+
 * {
   padding: .5rem 0rem;
 }
@@ -44,11 +46,13 @@ section {
 }
 
 aside {
-  background-image: linear-gradient(to bottom right, #36D1DC, #5B86E5)
+  background-image: linear-gradient(to bottom right, #36D1DC, #5B86E5);
+  padding-left: 1.5em;
 }
 
 footer {
   background: pink;
+  padding-left: 1.5em;
 }
 
 /* _____________________________________________________________________________ */
